@@ -12,4 +12,4 @@ pnpm dev
 bun dev
 ```
 
-obs: se nao existir a pasta node basta usar o seguinte comando - npm install(caso o gerenciador de pacotes for esse) para realizar a instalação.   
+obs: Para instalar a pasta node modules - npm install(caso o gerenciador de pacotes for esse).   
