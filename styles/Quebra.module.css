@@ -1,0 +1,12 @@
+.quebra{
+   display: flex;
+   justify-content: center;
+}
+
+.quebra2{
+   display: flex;
+   color: white;
+   justify-content: center;
+   margin-top: 40px;
+   margin-bottom: 40px;
+}
